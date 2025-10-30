@@ -1,4 +1,4 @@
-##Sibel Doğru's Blog
+#Sibel Doğru's Blog
 
 This is a simple personal blog website built using HTML and CSS, showcasing blog posts with a clean and minimal design. The project focuses on layout styling, fixed header and footer positioning, and card-based post previews.
 
