@@ -1,8 +1,8 @@
-#Sibel Doğru's Blog
+Sibel Doğru's Blog
 
 This is a simple personal blog website built using HTML and CSS, showcasing blog posts with a clean and minimal design. The project focuses on layout styling, fixed header and footer positioning, and card-based post previews.
 
-🌐 ##Project Overview
+🌐 Project Overview
 
 The website consists of:
 
@@ -14,7 +14,7 @@ Shared header and footer across all pages for consistent navigation.
 
 Each post card includes an image, title, and short description with a “read more” link leading to the full post.
 
-🧩 ##Project Structure
+🧩 Project Structure
 
 
 📁 project-folder/
@@ -32,7 +32,7 @@ Each post card includes an image, title, and short description with a “read mo
 
 
 
-🎨 ##Features
+🎨 Features
 
 Fixed header and footer for easy navigation
 
@@ -44,7 +44,7 @@ Simple and consistent color palette
 
 
 
-⚙️ ##Technologies Used
+⚙️ Technologies Used
 
 HTML5 for structure
 
@@ -52,7 +52,7 @@ CSS3 (Flexbox) for layout and styling
 
 Normalize.css for cross-browser consistency
 
-🧭 ##How to Use
+🧭 How to Use
 
 Clone or download this project.
 
